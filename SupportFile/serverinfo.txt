@@ -1,0 +1,27 @@
+
+
+
+Active:
+Test Domain:	
+ticketvault.cu.cc
+http://www.registry.cu.cc/login.php
+TicketVault
+CS307TEAM8	
+
+Hosting Server
+hostinger.co.uk
+http://cpanel.hostinger.co.uk
+curtishuang@live.com	CS307TEAM8
+
+
+
+
+Backup:
+Test Domain:	
+ticketvault.tk
+http://www.dot.tk/zh/index.html Login as google account.(Hanxun)
+
+Hosting Server
+hostinger.in
+curtishuang@foxmail.com CS307TEAM8
+ticketvault.tk		CS307TEAM8

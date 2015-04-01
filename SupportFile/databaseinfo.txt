@@ -1,0 +1,20 @@
+http://www.freemysqlhosting.net
+412277983@qq.com
+h6nLG8yuZe1g
+
+
+http://www.phpmyadmin.co
+Host: sql3.freemysqlhosting.net
+Database name: sql353761
+Database user: sql353761
+Database password: bR7%eL9*
+Port number: 3306
+
+
+New database OCT-28-2014
+http://cpanel.hostinger.co.uk/auth/?r=/databases/phpmyadmin/aid/6359410
+Host: mysql.hostinger.co.uk
+Database name: u907917272_table
+Database user: u907917272_cs307
+Database password: CS307TEAM8
+Port number: 3306
