@@ -1,4 +1,4 @@
 # TicketVault
 Ticket booking website
 
-Original Repository: https://github.com/TicketVault/TicketVault
+Former Repository: https://github.com/TicketVault/TicketVault
